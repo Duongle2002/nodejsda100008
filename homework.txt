@@ -1,0 +1,56 @@
+{
+  "osType": "Windows_NT",
+  "platform": "win32",
+  "totalRAM": "15.71 GB",
+  "usedRAM": "9.13 GB",
+  "CPU": [
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i5-12450H",
+      "speed": "2496 MHz"
+    }
+  ]
+}
