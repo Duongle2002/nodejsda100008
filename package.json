@@ -1,16 +1,24 @@
 {
-  "name": "ltmnm",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "demo2",
   "type": "module",
+  "packageManager": "yarn@4.4.1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon index.js",
+    "tailwind:css": "postcss public/styles/tailwind.css -o public/styles/style.css"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "ltmnm": "file:"
+    "autoprefixer": "^10.4.20",
+    "body-parser": "^1.20.3",
+    "demo2": "file:",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.7.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.4",
+    "postcss": "^8.4.47",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.13",
+    "yarn": "^1.22.22"
   }
 }
